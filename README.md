@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [My Solution](https://your-solution-url.com)
+- Solution URL: [My Solution](https://www.frontendmentor.io/solutions/nft-preview-card-component-using-css-flexbox-vtfXlxb6IA)
 - Live Site URL: [Github Pages](https://delanohendrix.github.io/NFT-Preview-Card-Component/)
 
 ## My process
